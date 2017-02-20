@@ -1,4 +1,7 @@
 #!/bin/bash
+###############################################
+### OWNCLOUD Installer by Ultraseedbx.com ####
+###############################################
 userid=$(id -u)
 user="`whoami`"
 host="`hostname -f`"
